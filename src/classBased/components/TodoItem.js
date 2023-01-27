@@ -18,10 +18,6 @@ function TodoItem(props) {
     });
   };
 
-  // componentWillUnmount() {
-  //   console.log("Cleaning up...");
-  // }
-
   let viewMode = {};
   let editMode = {};
 
